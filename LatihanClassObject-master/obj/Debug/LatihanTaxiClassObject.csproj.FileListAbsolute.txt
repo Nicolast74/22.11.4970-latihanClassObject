@@ -1,0 +1,6 @@
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\bin\Debug\LatihanTaxiClassObject.exe.config
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\bin\Debug\LatihanTaxiClassObject.exe
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\bin\Debug\LatihanTaxiClassObject.pdb
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\obj\Debug\LatihanTaxiClassObject.csprojResolveAssemblyReference.cache
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\obj\Debug\LatihanTaxiClassObject.exe
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\LatihanTaxiClassObject\LatihanTaxiClassObject\obj\Debug\LatihanTaxiClassObject.pdb
